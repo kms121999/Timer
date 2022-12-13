@@ -17,9 +17,12 @@ I was inspired to create this app as a tool in tracking the amount of time I spe
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Android Developers - Docs](https://developer.android.com/docs)
+* [Android Developers - The Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
+* [Android Developers - Spinners](https://developer.android.com/develop/ui/views/components/spinner)
+* [GeeksforGeeks - Spinner in Kotlin](https://www.geeksforgeeks.org/spinner-in-kotlin/)
+* [Android Developers - Chronometer](https://developer.android.com/reference/kotlin/android/widget/Chronometer)
+
 
 # Future Work
 
