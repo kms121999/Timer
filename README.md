@@ -1,6 +1,6 @@
 # Overview
 
-Developing this app was a great instrument in familiarizing myself with the tools and nuances of app development. This project has grown my knowlege base and increased my abilities as a software engineer.
+Developing this app was a great instrument in familiarizing myself with the tools and nuances of app development. This project has grown my knowledge base and increased my abilities as a software engineer.
 
 This app is designed as a tool to track time spent on different projects. It provides the tools to create, switch between, start, and stop various projects. It features a simple, one-page interface providing all the mentioned functionality.
 
