@@ -10,9 +10,10 @@ I was inspired to create this app as a tool in tracking the amount of time I spe
 
 # Development Environment
 
-{Describe the tools that you used to develop the app}
-
-{Describe the programming language that you used and any libraries.}
+* Android Studio Dolphin | 2021.3.1 Patch 1
+* Pixel 3 API 29 (Emulator)
+* Compile Sdk 32
+* Kotlin Plugin: 213-1.7.20-release-for-android-studio-AS6777.52
 
 # Useful Websites
 
