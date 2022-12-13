@@ -26,7 +26,10 @@ I was inspired to create this app as a tool in tracking the amount of time I spe
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Improve GUI - Nicer look and better arranged
+* Provide functionality to reset a projects accumulated time
+* Provide project delete functionality
+* Prevent or warn when overwriting projects through project create new functionality
+* Implement an Alarm to save a running project every 5 minutes to prevent loss of data
+* Allow the creation of sub-projects which contribute to the total time of the parent project
+* Refactor so strings are stored in a resource file rather than hard coded in software
