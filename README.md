@@ -6,7 +6,7 @@ This app is designed as a tool to track time spent on different projects. It pro
 
 I was inspired to create this app as a tool in tracking the amount of time I spent on different projects throughout college. It is much easier to consistently track time spent with such an application on a phone in your hand rather than on a laptop. I saw this as a great opportunity to learn about mobile development while making a tool I know I will use.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ZtaJdktEH1M)
 
 # Development Environment
 
