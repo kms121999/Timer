@@ -33,3 +33,4 @@ I was inspired to create this app as a tool in tracking the amount of time I spe
 * Implement an Alarm to save a running project every 5 minutes to prevent loss of data
 * Allow the creation of sub-projects which contribute to the total time of the parent project
 * Refactor so strings are stored in a resource file rather than hard coded in software
+* Provide ability to adjust time spent on a given project
