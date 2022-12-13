@@ -1,12 +1,10 @@
 # Overview
 
-{Talk about what you are trying to accomplish as a software engineer to further your learning.}
+Developing this app was a great instrument in familiarizing myself with the tools and nuances of app development. This project has grown my knowlege base and increased my abilities as a software engineer.
 
-{Provide a description of your app.  Describe how to use the app.}
+This app is designed as a tool to track time spent on different projects. It provides the tools to create, switch between, start, and stop various projects. It features a simple, one-page interface providing all the mentioned functionality.
 
-{Describe your purpose for creating this app.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
+I was inspired to create this app as a tool in tracking the amount of time I spent on different projects throughout college. It is much easier to consistently track time spent with such an application on a phone in your hand rather than on a laptop. I saw this as a great opportunity to learn about mobile development while making a tool I know I will use.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
