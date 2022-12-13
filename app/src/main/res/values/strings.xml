@@ -1,9 +1,3 @@
 <resources>
     <string name="app_name">Timer</string>
-
-    <string-array name="project_names">
-        <item>Proj1</item>
-        <item>Proj2</item>
-        <item>Hello World</item>
-    </string-array>
 </resources>
